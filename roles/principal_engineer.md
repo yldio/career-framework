@@ -1,5 +1,9 @@
 # Principal Engineer
 
+A Principal Engineer is a very experienced engineer that is an expert in some of
+the technologies we use at YLD. This person would be invaluable when solving
+complex problems both with our clients and with our own products.
+
 Here are a number of guidelines in several areas that we would like to see.
 
 ## Technical Guidelines
