@@ -12,7 +12,7 @@ documents first:
 - [Introduction](Intro.md);
 - [Benefits](Benefits.md);
 - [Role descriptions](Roles.md);
-- [FAQs](FAQs.md).
+- [FAQs](FAQ.md).
 
 ## Credits
 
