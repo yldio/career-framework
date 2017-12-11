@@ -1,6 +1,8 @@
 # Distinguished Engineer
 
-TODO
+An engineer at this level is responsible for both major developments in software
+and also recognised in the industry. This person is strongly involved in Open
+Source and is responsible for pushing the organisation forward.
 
 Here are a number of guidelines in several areas that we would like to see.
 
@@ -12,6 +14,7 @@ Here are a number of guidelines in several areas that we would like to see.
 | Responsible for major breakthroughs |
 | Driving projects on which multiple organisations depend |
 | Primary maintainer of OSS projects |
+| Excellent writer, potentially writing technical books on complex subjects |
 
 ## Other Guidelines
 
