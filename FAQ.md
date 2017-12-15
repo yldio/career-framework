@@ -61,7 +61,7 @@ for reporting.
 ## Q: My specialism isn’t listed, what does that mean?
 
 We will always require specialists in many different areas and the ones
-providedare simply examples representative of the majority of staff in the
+provided are simply examples representative of the majority of staff in the
 company. If your area of specialisation isn’t listed, it means you should look
 for the default list of expectations for guidance, which is the same for all
  engineers. If you think your specialism should be listed and particular skills

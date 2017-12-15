@@ -16,7 +16,7 @@ are what makes us unique. The demonstration of those values is what pushes us
 forward in the right direction, and also responsible for a positive impression
 we leave on our clients and products.
 
-The framework dsescribed here accounts for 2 different contributory roles:
+The framework described here accounts for 2 different contributory roles:
 individual contribution and leadership. We are first and foremost a consultancy
 organisation, which means most engineers will work with our clients. That said,
 there are roles available which focus purely on engineering work with less
