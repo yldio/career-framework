@@ -16,8 +16,7 @@ Here are a number of guidelines in several areas that we would like to see.
 | Is capable of finding a solution when others can't |
 | Personally accountable for maintaining technical relevance to industry trends and best practices |
 | Able to quickly pick up any programming language or framework |
-| Strong understanding of how to write maintainable software, rarely if ever makes |
-| mistakes that lead to poor maintainability |
+| Strong understanding of how to write maintainable software, rarely if ever makes mistakes that lead to poor maintainability |
 | Researches and leads adoption of new systems/technologies to stay current and strive for excellence on your team |
 | Able to do a large scale redesign |
 
