@@ -10,7 +10,7 @@ The best way to familiarise yourself with it is by reading the following
 documents first:
 
 - [Introduction](Intro.md);
-- [Benefits](Benefits.md);
+- [Why](Why.md);
 - [Role descriptions](Roles.md);
 - [FAQs](FAQ.md).
 
