@@ -31,3 +31,4 @@ Here are a number of guidelines in several areas that we would like to see.
 | Can solve problems with direction | Curious |  |
 | Needs to develop productivity skills such as master one editor, be confident with source control, build systems, testing and best practices | Communicative |  |
 |  | Adaptable |
+| test |
