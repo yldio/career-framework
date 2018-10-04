@@ -21,7 +21,7 @@ Here are a number of guidelines in several areas that we would like to see.
 | Basic understanding of distributed computing |  |
 | Understanding of 1 or more data storage technologies |  |
 
-## Other Guidelines
+## Consulting Guidelines
 
 | Delivery | Personal Skills | Communication and Leadership |
 | ------ | ------ | ------ |
