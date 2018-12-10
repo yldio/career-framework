@@ -1,7 +1,7 @@
 # Associate Partner
 
 An Associate Parter will manage a number of Principal Consultants and clients.
-They are involved in the pre-sales process and full lyfecycle of a project, are
+They are involved in the pre-sales process and full lifecycle of a project, are
 YLD advocates in the industry and responsible for internal management and
 reporting activities.
 
