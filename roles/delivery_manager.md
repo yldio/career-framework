@@ -1,6 +1,6 @@
 # Delivery Manager
 
-A Delivery Manager is both responsible and accountable for the delivery of YLD services with the aim to exceed a client’s satisfaction. 
+A Delivery Manager is both responsible and accountable for the delivery of YLD services with the aim to exceed our clients' satisfaction. 
 
 They are responsible for managing one or more agile projects with our clients, typically to deliver a specific product/service via a multi-disciplinary, highly skilled and motivated team. They are adept at delivering complex projects, breaking down barriers for the team and our clients. They are comfortable both planning at a higher level and getting into the detail to make things happen when needed.
 
