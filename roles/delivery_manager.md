@@ -17,7 +17,7 @@ Here are a number of guidelines in several areas that we would like to see.
 | ------ | ------ | ------ |
 | Responsible for the successful delivery of projects and products using the appropriate agile project management methodology, learning and iterating frequently | Ensure client engagement expectations is met and exceeded | Orchestrate all relevant YLD teams to be most effective in delivering positive change with a client |
 | Assist and improve our client’s delivery processes while delivering YLDs services | Inform technical decisions at client | Retain/mentor/coach YLD and/or client employees |
-| Improve delivery skills of client staff | Inform tool selection at client | Responsible for team happiness. Measured in NPS of team |
+| Improve delivery skills of YLD and clients' employees | Inform tool selection at client | Responsible for team happiness. Measured in NPS of team |
 | Focus on quality, setting standards, advise clients | Responsible for identifying new opportunities for growth in a client to be exploited in collaboration with a Principal Consultant | Conflict management within teams and/or clients |
 | Communicate effectively across organisational, technical and political boundaries, adapting to the context in all cases | Stakeholder management: lead communication to all stakeholders to ensure expectations are being managed and trust is developed | Assess current team, ability and needs |
 | Responsible for day-to-day YLD management
