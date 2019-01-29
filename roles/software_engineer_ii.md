@@ -1,9 +1,9 @@
 # Software Engineer II
 
-At this level, Software Engineers are self-suficient, proactive and experienced.
-They are solid contriutors and with independence, producing quality output and
+At this level, Software Engineers are self-sufficient, proactive and experienced.
+They are solid contributors and with independence, producing quality output and
 helping out less experienced engineers. They are expected to take part in
-arquitectural conversations and be able to articulate their ideas confidently.
+architectural conversations and be able to articulate their ideas confidently.
 
 Here are a number of guidelines in several areas that we would like to see.
 
