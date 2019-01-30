@@ -1,9 +1,6 @@
 # Software Engineer I
 
-Software Engineers at level 1 will have some or minimal exposure to production systems
-at scale, with the impact mainly on the tasks in progress. Engineers at this level
-display a number of attributes that show a strong foundation in ability and the
-potential to become a highly-experienced engineer at YLD.
+Software engineers at level 1 will have some or minimal exposure to production systems at scale, mostly impacting on the tasks in progress. Engineers at this level display a number of attributes showing a strong existing foundation in their abilities, with the potential to become a highly experienced engineer at YLD.
 
 Here are a number of guidelines in several areas that we would like to see.
 
