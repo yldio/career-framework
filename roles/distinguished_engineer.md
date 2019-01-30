@@ -1,24 +1,22 @@
 # Distinguished Engineer
 
-An engineer at this level is responsible for both major developments in software
-and also recognised in the industry. This person is strongly involved in Open
-Source and is responsible for pushing the organisation forward.
+An engineer at this level is responsible for major developments in software and is recognised within the industry. They are strongly involved in the open source community and are responsible for pushing our organisation forward.
 
-Here are a number of guidelines in several areas that we would like to see.
+Below are some guidelines of what we’d like to see in our distinguished engineers.
 
-## Technical Guidelines
+## Technical guidelines
 
 | For all |
 | ------ |
 | Recognised widely in the industry for material contributions to the state of the art |
 | Responsible for major breakthroughs |
-| Driving projects on which multiple organisations depend |
+| Drive projects on which multiple organisations depend |
 | Primary maintainer of OSS projects |
-| Excellent writer, potentially writing technical books on complex subjects |
+| An excellent writer, potentially writing technical books on complex subjects |
 
-## Other Guidelines
+## Other guidelines
 
-| Personal skills | Delivery | Impact | Communication and Leadership |
+| Personal skills | Delivery | Impact | Communication and leadership |
 | ------ | ------ | ------ | ------ |
-| Excellent communicator | Indirect influence on the delivery inside the organisation | Work impacts multiple organisations and communities | Invents new concepts, pushes the whole organisation forward regularly |
-| Leads by example |  | Identifies gaps in the company | Strong impact in the community, giving presentations regularly and being an evangelist |
+| Excellent communicator | Indirect influence on the delivery inside the organisation | Your work will impact multiple organisations and communities | Invent new concepts, pushing the whole organisation forward regularly |
+| Lead by example |  | Identify gaps in the company | A strong impact in the community, giving presentations regularly and being an evangelist |
