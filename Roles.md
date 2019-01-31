@@ -3,7 +3,7 @@
 Here is a table outlining the roles available on the career framework. Please
 follow the links to see the details on each of the roles.
 
-| Client track | Engineering track |
+| Consulting track | Engineering track |
 | ------------- | ------------ |
 | [Associate Partner][1]  | [Distinguished Engineer][2] |
 | [Principal Consultant][3] | [Principal Engineer][4] |
