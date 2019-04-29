@@ -28,9 +28,9 @@ We have then worked together to build something that works for us.
 
 ## Contribute
 
-Please help us make it better! If you would like to contribute to it, improve it
-or make sugestions, please either open an issue or a pull request.
+For details on how to contribute, please read our [guidelines][4].
 
 [1]: https://github.com/basecamp/handbook
 [2]: https://labs.spotify.com/2016/02/15/spotify-technology-career-steps/
 [3]: http://dresscode.renttherunway.com/blog/ladder
+[4]: CONTRIBUTING.md
