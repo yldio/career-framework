@@ -33,14 +33,14 @@ it official.
 
 Here is a small table to guide you through the steps:
 
-| Timeline of events |
-| ------- |
-| Evaluate yourself against the job description for your position and find out where you would like to improve on; or alternatively decide where you want to move into and find out what you are currently lacking. |
-| Every quarter, we expect you to set your own goals - use this opportunity to set goals that are aligned with your ambitions, not forgetting the company and team goals as well. Make sure they are measurable, actionable and realistic. |
-| Speak with your line manager about your goals and together decide what projects are best suited to help you accomplish your goals. |
-| Improve on your goals as you work on projects, keeping in mind your direction.|
-| Use your bi-annual appraisal to check your progress against the objectives.  Make sure you have ways to demonstrate how you’re improving and how you’re reaching your goals. |
-| Together with your line manager, use the appraisals to discuss your career goals and decide whether you’re ready for it or need further improvements.  Remember, we want to see improvements on behaviours and consistency, not just on-off achievements. |
+| Timeline of events                                                                                                                                                                                                                                       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Evaluate yourself against the job description for your position and find out where you would like to improve on; or alternatively decide where you want to move into and find out what you are currently lacking.                                        |
+| Every quarter, we expect you to set your own goals - use this opportunity to set goals that are aligned with your ambitions, not forgetting the company and team goals as well. Make sure they are measurable, actionable and realistic.                 |
+| Speak with your line manager about your goals and together decide what projects are best suited to help you accomplish your goals.                                                                                                                       |
+| Improve on your goals as you work on projects, keeping in mind your direction.                                                                                                                                                                           |
+| Use your bi-annual appraisal to check your progress against the objectives. Make sure you have ways to demonstrate how you’re improving and how you’re reaching your goals.                                                                              |
+| Together with your line manager, use the appraisals to discuss your career goals and decide whether you’re ready for it or need further improvements. Remember, we want to see improvements on behaviours and consistency, not just on-off achievements. |
 
 We don’t expect promotions to happen every six months, but we do review salaries
 and benefits frequently. Furthermore, increase in responsibilities can happen at

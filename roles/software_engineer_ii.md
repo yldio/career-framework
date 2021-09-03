@@ -6,35 +6,35 @@ Below are some guidelines of what we’d like to see in our level two software e
 
 ## Technical Guidelines
 
-| For all | DevOps-specific | Frontend-specific |
-| ------ | ------ | ------ |
-| Consider non-functional requirements of a system and perform ad-hoc testing around those | Understanding of a wide variety of dependency management practices and how to choose the right one | Understanding of semantic markup |
-| Able to properly ensure system security when creating a solution | A good understanding of shell scripting | Understanding of when to use (and not use) a frontend framework |
-| Design APIs to be flexible | An in depth understanding of chosen build tools | Understanding of frontend pipelines (minification, pre-compilation, etc.) |
-| Involved in selecting a solution during planning sessions | Able to build a basic build pipeline | A solid understanding of plain JavaScript in the browser |
-| Able to make well-reasoned technical decisions | Understanding of, and able to demonstrate, how dependency management works | Understanding of client-side security |
-| Able to independently solve all programming problems that are presented | | Comfortable with HTML5 APIs |
-| Able to use multiple programming paradigms (OO, functional, etc.) |  | Understanding of responsive design |
-| A strong understanding of multiple data storage techniques and technologies |  | Knowledge of web accessibility |
-| Able to setup a simple project from scratch in any of the languages within their core competency |  | A basic knowledge of accessibility and usability concepts |
-| Knowledge of what ‘good’ looks like, and applying this at all times |  | Ability to write composable and reusable CSS |
-| Able to create atomic commits with good context around the changes being committed | |  |
-| Choosing the correct tool for the job |  |  |
-| Understanding when tests are not providing value |  |  |
-| Understanding the value of standards |  |  |
-| Writing code in the right places |  |  |
-| Demonstrating a solid understanding of the testing pyramid |  |  |
-| A contributor to OSS |  |  |
+| For all                                                                                          | DevOps-specific                                                                                    | Frontend-specific                                                         |
+| ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Consider non-functional requirements of a system and perform ad-hoc testing around those         | Understanding of a wide variety of dependency management practices and how to choose the right one | Understanding of semantic markup                                          |
+| Able to properly ensure system security when creating a solution                                 | A good understanding of shell scripting                                                            | Understanding of when to use (and not use) a frontend framework           |
+| Design APIs to be flexible                                                                       | An in depth understanding of chosen build tools                                                    | Understanding of frontend pipelines (minification, pre-compilation, etc.) |
+| Involved in selecting a solution during planning sessions                                        | Able to build a basic build pipeline                                                               | A solid understanding of plain JavaScript in the browser                  |
+| Able to make well-reasoned technical decisions                                                   | Understanding of, and able to demonstrate, how dependency management works                         | Understanding of client-side security                                     |
+| Able to independently solve all programming problems that are presented                          |                                                                                                    | Comfortable with HTML5 APIs                                               |
+| Able to use multiple programming paradigms (OO, functional, etc.)                                |                                                                                                    | Understanding of responsive design                                        |
+| A strong understanding of multiple data storage techniques and technologies                      |                                                                                                    | Knowledge of web accessibility                                            |
+| Able to setup a simple project from scratch in any of the languages within their core competency |                                                                                                    | A basic knowledge of accessibility and usability concepts                 |
+| Knowledge of what ‘good’ looks like, and applying this at all times                              |                                                                                                    | Ability to write composable and reusable CSS                              |
+| Able to create atomic commits with good context around the changes being committed               |                                                                                                    |                                                                           |
+| Choosing the correct tool for the job                                                            |                                                                                                    |                                                                           |
+| Understanding when tests are not providing value                                                 |                                                                                                    |                                                                           |
+| Understanding the value of standards                                                             |                                                                                                    |                                                                           |
+| Writing code in the right places                                                                 |                                                                                                    |                                                                           |
+| Demonstrating a solid understanding of the testing pyramid                                       |                                                                                                    |                                                                           |
+| A contributor to OSS                                                                             |                                                                                                    |                                                                           |
 
 ## Other Guidelines
 
-| Personal skills | Delivery | Impact | Communication and leadership |
-| ------ | ------ | ------ | ------ |
-| Proactive in finding ways to help and improve the team | Capable of prioritising work, without focussing on unimportant tasks | Able to help bring colleagues up to speed | Able to communicate risks to relevant stakeholders |  |
-| Guides a less experienced colleague in a pairing scenario | Learns quickly and makes progress without supervision | Self-sufficient in the current project, with a broad understanding of other projects | Able to provide feedback for colleagues |  |
-| Breaks the rules at the right time | Able to identify problems with requirements | Can confidently help during support | Asks for feedback as a way to improve |  |
-| Understanding and owning up to own mistakes | Maintaining vision of a larger piece of work (feature/ epic) |  | Able to present new findings to the wider team in a brownbag format |  |
-| Creating a cohesive team through positive social interactions | Communicating assumptions and asking for clarifications up front |  | Communicating effectively, both in writing and verbally |  |
-| Understanding the need for vision and asking for help | Focussed on providing value to the client |  |  |  |
-| Able to explain technical solutions well |  |  |  |  |
-| Rarely makes the same mistake twice |  |  |  |  |
+| Personal skills                                               | Delivery                                                             | Impact                                                                               | Communication and leadership                                        |
+| ------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| Proactive in finding ways to help and improve the team        | Capable of prioritising work, without focussing on unimportant tasks | Able to help bring colleagues up to speed                                            | Able to communicate risks to relevant stakeholders                  |
+| Guides a less experienced colleague in a pairing scenario     | Learns quickly and makes progress without supervision                | Self-sufficient in the current project, with a broad understanding of other projects | Able to provide feedback for colleagues                             |
+| Breaks the rules at the right time                            | Able to identify problems with requirements                          | Can confidently help during support                                                  | Asks for feedback as a way to improve                               |
+| Understanding and owning up to own mistakes                   | Maintaining vision of a larger piece of work (feature/ epic)         |                                                                                      | Able to present new findings to the wider team in a brownbag format |
+| Creating a cohesive team through positive social interactions | Communicating assumptions and asking for clarifications up front     |                                                                                      | Communicating effectively, both in writing and verbally             |
+| Understanding the need for vision and asking for help         | Focussed on providing value to the client                            |                                                                                      |                                                                     |
+| Able to explain technical solutions well                      |                                                                      |                                                                                      |                                                                     |
+| Rarely makes the same mistake twice                           |                                                                      |                                                                                      |                                                                     |

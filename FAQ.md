@@ -37,7 +37,7 @@ III. It’s at that level that they are working at full capacity and providing
 value to both the company and to our clients. From that point forward, it’s a
 matter of where you would like to be in the future and we want to provide room
 for you to grow as you see fit, providing it’s in line with the company’s goals
- and values.
+and values.
 
 ## Q: I can’t see my special circumstances listed, how do I proceed?
 
@@ -64,8 +64,8 @@ We will always require specialists in many different areas and the ones
 providedare simply examples representative of the majority of staff in the
 company. If your area of specialisation isn’t listed, it means you should look
 for the default list of expectations for guidance, which is the same for all
- engineers. If you think your specialism should be listed and particular skills
- defined, please have a chat with your line manager about it.
+engineers. If you think your specialism should be listed and particular skills
+defined, please have a chat with your line manager about it.
 
 ## Q: Why aren’t there seniority levels in the role names (e.g. junior/senior)?
 
