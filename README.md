@@ -9,10 +9,10 @@ positions together with their descriptions.
 The best way to familiarise yourself with it is by reading the following
 documents first:
 
-- [Introduction](Intro.md);
-- [Why](Why.md);
-- [Role descriptions](Roles.md);
-- [FAQs](FAQ.md).
+- [Introduction](intro.md);
+- [Why](why.md);
+- [Role descriptions](roles.md);
+- [FAQs](faq.md).
 
 ## Credits
 
