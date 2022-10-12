@@ -55,4 +55,4 @@ other question about it.
 [1]: https://yld.readme.io/docs/values
 [2]: https://docs.google.com/document/d/13vMBEz6sudqBxTljZ-TqeL5rJhy5MrVUGZWIhtTZZBY/edit#heading=h.qj3344y8dr6y
 [3]: https://docs.google.com/document/d/1vXGODHM7hqHdukWXI4FiO6_3NtHzZNwRN37kgnHU5GY/edit#
-[4]: FAQ.md
+[4]: faq.md
